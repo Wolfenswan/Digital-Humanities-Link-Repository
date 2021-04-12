@@ -61,6 +61,8 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [The Programming Historian](https://programminghistorian.org/) - Features a broad spectrum courses 
 - [freeCodeCamp](https://www.freecodecamp.org/) - Features courses on web development and data analysis with Python
 
-
 **Hackathons and Dev-Jams**
 - [Coding Da Vince](https://codingdavinci.de/en) - Hackathon for open cultural data
+
+**Other**
+- [Awesome List](https://github.com/sindresorhus/awesome) - List of "awesome lists" related to programming
