@@ -17,7 +17,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [Clarin-D](https://www.clarin-d.net/en/)  - digital infrastructure for language and speech resources
 - [GAMS](http://gams.uni-graz.at/archive/objects/context:gams/methods/sdef:Context/get?locale=de) - Asset Management System for the Humanities
 
-**Curated project lists**
+**Curated lists of Digital Humanity projects**
 - [Projects presented by the European Association for Digital Humanities](https://eadh.org/projects)
 - [Projekte der deutschsprachigen Digital Humanities](https://dig-hum.de/forschung/projekte) *_de*
 - [TextGrid projects](https://www.textgrid.de/en/web/guest/kooperationsprojekte)
