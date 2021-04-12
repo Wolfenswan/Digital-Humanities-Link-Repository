@@ -42,6 +42,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 ## Specialized Topics
 #### Digital History
 - [Digital History Project](http://digitalhistory.unl.edu/) - overview of scholars, projects and courses in the field of Digital History
+- [Tempopedia](https://tempopedia.org/) - Directory of Digital History Projects
 
 #### Digital Games and Humanities
 - [Arbeitskreis Geschichtswissenschaft und Digitale Spiele](https://gespielt.hypotheses.org/) *_de*
