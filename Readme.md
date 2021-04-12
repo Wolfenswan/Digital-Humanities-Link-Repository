@@ -22,7 +22,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [Projekte der deutschsprachigen Digital Humanities](https://dig-hum.de/forschung/projekte) *_de*
 - [TextGrid projects](https://www.textgrid.de/en/web/guest/kooperationsprojekte)
 - [GAMS Projects](http://gams.uni-graz.at/context:gams.projekte)
-- 
+
 ## Education and Certifications
 
 **Courses and Degree Programs (Collections)**
