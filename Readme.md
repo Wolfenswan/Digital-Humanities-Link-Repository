@@ -11,15 +11,17 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [DHd-Blog - Digital Humanities im deutschsprachigen Raum](https://dhd-blog.org/) *_de*
 - [Center for Digital Humanities Münster](https://www.uni-muenster.de/CDH/) *_de*
 
+**Supporting associations, infrastructure and projects**
+- [Digital Research Infrastructure for the Arts and Humanities](https://de.dariah.eu/)
+- [Clarin-D](https://www.clarin-d.net/en/)  - digital infrastructure for language and speech resources
+- [GAMS](http://gams.uni-graz.at/archive/objects/context:gams/methods/sdef:Context/get?locale=de) - Asset Management System for the Humanities
+
 **Curated project lists**
 - [Projects presented by the European Association for Digital Humanities](https://eadh.org/projects)
 - [Projekte der deutschsprachigen Digital Humanities](https://dig-hum.de/forschung/projekte) *_de*
 - [TextGrid projects](https://www.textgrid.de/en/web/guest/kooperationsprojekte)
-
-**Supporting associations, infrastructure and projects**
-- [Digital Research Infrastructure for the Arts and Humanities](https://de.dariah.eu/)
-- [Clarin-D - digital infrastructure for language and speech resources](https://www.clarin-d.net/en/)
-
+- [GAMS Projects](http://gams.uni-graz.at/context:gams.projekte)
+- 
 ## Education and Certifications
 
 **Courses and Degree Programs (Collections)**
