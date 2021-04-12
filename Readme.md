@@ -12,8 +12,8 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [Center for Digital Humanities Münster](https://www.uni-muenster.de/CDH/) *_de*
 
 **Supporting associations, infrastructure and projects**
-- [Dariah-DE](https://de.dariah.eu/) - Digital Research Infrastructure for the Arts and Humanities
 - [Clarin-D](https://www.clarin-d.net/en/)  - digital infrastructure for language and speech resources
+- [Dariah-DE](https://de.dariah.eu/) - Digital Research Infrastructure for the Arts and Humanities
 - [DHd-Blog](https://dhd-blog.org/) - Blog über die Aktivitäten der deutschsprachigen Digital Humanities *_de*
 - [GAMS](http://gams.uni-graz.at/archive/objects/context:gams/methods/sdef:Context/get?locale=de) - Asset Management System for the Humanities
 
