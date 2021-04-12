@@ -52,9 +52,10 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Pycharm](https://code.visualstudio.com/)
 
-**Tutorials and Courses**
+**Tutorials, Courses and Workshops**
 - [The Programming Historian](https://programminghistorian.org/) - Features a broad spectrum of courses 
 - [freeCodeCamp](https://www.freecodecamp.org/) - Features courses on web development and data analysis with Python
+- [Data Carpentry](https://datacarpentry.org/) - Workshops teaching data skills required for research
 
 **Python**
 - [Jupyter Notebooks](https://jupyter.org/)
@@ -64,7 +65,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [Coding Da Vince](https://codingdavinci.de/en) - Hackathon for open cultural data
 
 ## Awesome Lists
-- [Awesome](https://github.com/sindresorhus/awesome) - Meta-List of "awesome lists" related to development and software in general
-- [Awesome Digital History](https://github.com/maehr/awesome-digital-history) - List of finding aids and research tools for textual and multimedia primary sources.
-- [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - curated list for data science in Python
-- [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing)
+- [Awesome](https://github.com/sindresorhus/awesome) - Meta-List of "awesome lists" related to development and software in general.
+- [Awesome Digital History](https://github.com/maehr/awesome-digital-history) - Computer-aided scientific investigation of history.
+- [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - Curated list for data science in Python.
+- [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
