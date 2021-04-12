@@ -55,8 +55,10 @@ This is very much a work in progress and by no means complete. Feel free to rais
 
 
 **Python**
+- [Awesome Python](https://github.com/vinta/awesome-python#readme) - curated list of all things Python
+- [Awesome Python Data Sciene](https://github.com/krzjoa/awesome-python-data-science#readme) - curated list for data science in Python
 - [Jupyter Notebooks](https://jupyter.org/)
-- [pythonanywhere](https://www.pythonanywhere.com/) - cloud-based hosting solution for python-apps
+- [Pythonanywhere](https://www.pythonanywhere.com/) - cloud-based hosting solution for python-apps
   
 
 **Tutorials and Courses**
@@ -67,4 +69,4 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [Coding Da Vince](https://codingdavinci.de/en) - Hackathon for open cultural data
 
 **Other**
-- [Awesome List](https://github.com/sindresorhus/awesome) - List of "awesome lists" related to development and software in general
+- [Awesome List](https://github.com/sindresorhus/awesome) - Meta-List of "awesome lists" related to development and software in general
