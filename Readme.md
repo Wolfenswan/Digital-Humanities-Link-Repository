@@ -65,4 +65,4 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [Coding Da Vince](https://codingdavinci.de/en) - Hackathon for open cultural data
 
 **Other**
-- [Awesome List](https://github.com/sindresorhus/awesome) - List of "awesome lists" related to programming
+- [Awesome List](https://github.com/sindresorhus/awesome) - List of "awesome lists" related to development and software in general
