@@ -4,7 +4,7 @@ A collection of webpages and apps useful to students of Digital History and thos
 
 This is very much a work in progress and by no means complete. Feel free to raise issues or create pull requests to add new content.
 
-## Associations and Ongoing Projects
+## Associations and General Projects
 
 **Umbrella associations**
 - [Verband DHd - Digital Humanities im deutschsprachigen Raum](https://dig-hum.de/) *_de*
@@ -34,7 +34,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [IT-Zertifikat der philosophischen Fakultät Köln](https://dh.phil-fak.uni-koeln.de/it-zertifikat-der-philosophischen-fakultaet) *_de*
 - [Zertifikatskurse der Technischen Hochschule Köln](https://www.th-koeln.de/weiterbildung/zertifikatskurse_5882.php) *_de*
 
-## Related Projects and Online Magazines
+## Specialized Projects and Online Magazines
 **Digital Games and Humanities**
 - [Arbeitskreis Geschichtswissenschaft und Digitale Spiele](https://gespielt.hypotheses.org/) *_de*
 - [Gaming the Past](https://gamingthepast.net/)
