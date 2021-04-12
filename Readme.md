@@ -60,7 +60,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
   
 
 **Tutorials and Courses**
-- [The Programming Historian](https://programminghistorian.org/) - Features a broad spectrum courses 
+- [The Programming Historian](https://programminghistorian.org/) - Features a broad spectrum of courses 
 - [freeCodeCamp](https://www.freecodecamp.org/) - Features courses on web development and data analysis with Python
 
 **Hackathons and Dev-Jams**
