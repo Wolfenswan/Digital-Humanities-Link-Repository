@@ -28,6 +28,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 **Courses and Degree Programs (Individual)**
 
 - [European Summer University in Digital Humanities](https://esu.culintec.de/)
+- [Digitale Geistes- und Sozialwissenschaften an der FAU](https://www.izdigital.fau.de/) *_de*
 - [Masterstudiengang Digitales Datenmanagement](https://www.ddm-master.de/) *_de*
 
 **Certificates**
