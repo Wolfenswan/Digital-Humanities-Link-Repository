@@ -7,6 +7,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 ## Associations and General Projects
 
 **Umbrella associations**
+- [Center for Digital Research in the Humanities](https://cdrh.unl.edu/)
 - [Verband DHd - Digital Humanities im deutschsprachigen Raum](https://dig-hum.de/) *_de*
 - [DHd-Blog - Digital Humanities im deutschsprachigen Raum](https://dhd-blog.org/) *_de*
 - [Center for Digital Humanities Münster](https://www.uni-muenster.de/CDH/) *_de*
@@ -38,7 +39,10 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [IT-Zertifikat der philosophischen Fakultät Köln](https://dh.phil-fak.uni-koeln.de/it-zertifikat-der-philosophischen-fakultaet) *_de*
 - [Zertifikatskurse der Technischen Hochschule Köln](https://www.th-koeln.de/weiterbildung/zertifikatskurse_5882.php) *_de*
 
-## Specialized Projects and Online Magazines
+## Specialized Topics
+**Digital History**
+- [Digital History Project](http://digitalhistory.unl.edu/) - overview of scholars, projects and courses in the field of Digital History
+
 **Digital Games and Humanities**
 - [Arbeitskreis Geschichtswissenschaft und Digitale Spiele](https://gespielt.hypotheses.org/) *_de*
 - [Gaming the Past](https://gamingthepast.net/)
