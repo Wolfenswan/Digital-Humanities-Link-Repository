@@ -46,7 +46,6 @@ This is very much a work in progress and by no means complete. Feel free to rais
 ## Digital Research, Coding and Development
 
 **Research assistants**
-- [Awesome Digital History](https://github.com/maehr/awesome-digital-history) - List of finding aids and research tools for textual and multimedia primary sources.
 - [TextGrid](https://www.textgrid.de/en/web/guest) - digital research environment
 
 **Editors and IDEs**
@@ -58,13 +57,14 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [freeCodeCamp](https://www.freecodecamp.org/) - Features courses on web development and data analysis with Python
 
 **Python**
-- [Awesome Python](https://github.com/vinta/awesome-python#readme) - curated list of all things Python
-- [Awesome Python Data Sciene](https://github.com/krzjoa/awesome-python-data-science#readme) - curated list for data science in Python
 - [Jupyter Notebooks](https://jupyter.org/)
 - [Pythonanywhere](https://www.pythonanywhere.com/) - cloud-based hosting solution for python-apps
 
 **Hackathons and Dev-Jams**
 - [Coding Da Vince](https://codingdavinci.de/en) - Hackathon for open cultural data
 
-**Other**
+## Awesome Lists
 - [Awesome List](https://github.com/sindresorhus/awesome) - Meta-List of "awesome lists" related to development and software in general
+- [Awesome Digital History](https://github.com/maehr/awesome-digital-history) - List of finding aids and research tools for textual and multimedia primary sources.
+- [Awesome Python](https://github.com/vinta/awesome-python#readme) - curated list of all things Python
+- [Awesome Python Data Sciene](https://github.com/krzjoa/awesome-python-data-science#readme) - curated list for data science in Python
