@@ -45,14 +45,15 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [History Respawned](https://www.historyrespawned.com/)
 - [Play the Past](http://www.playthepast.org/)
 
-## Digital Research, Coding and Development
+## Digital Research and Development
 
 **Research assistants**
-- [TextGrid](https://www.textgrid.de/en/web/guest) - digital research environment
+- [Jupyter](https://jupyter.org/) - Web-based computational environments to work with Python, R and Julia.
+- [TextGrid](https://www.textgrid.de/en/web/guest) - Digital research environment.
 
 **Editors and IDEs**
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Pycharm](https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/) - Free source-code editor.
+- [Pycharm](https://code.visualstudio.com/) - IDE for Python. Community edition is free.
 
 **Tutorials, Courses and Workshops**
 - [The Programming Historian](https://programminghistorian.org/) - Features a broad spectrum of courses 
@@ -60,11 +61,10 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [Data Carpentry](https://datacarpentry.org/) - Workshops teaching data skills required for research
 
 **Python**
-- [Jupyter Notebooks](https://jupyter.org/)
-- [Pythonanywhere](https://www.pythonanywhere.com/) - cloud-based hosting solution for python-apps
+- [Pythonanywhere](https://www.pythonanywhere.com/) - Cloud-based hosting solution for Python-apps.
 
 **Hackathons and Dev-Jams**
-- [Coding Da Vince](https://codingdavinci.de/en) - Hackathon for open cultural data
+- [Coding Da Vince](https://codingdavinci.de/en) - Hackathon for open cultural data.
 
 ## Awesome Lists
 - [Awesome](https://github.com/sindresorhus/awesome) - Meta-List of "awesome lists" related to development and software in general.
