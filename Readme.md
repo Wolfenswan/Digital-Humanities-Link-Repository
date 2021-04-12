@@ -9,6 +9,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 **Umbrella associations**
 - [Verband DHd - Digital Humanities im deutschsprachigen Raum](https://dig-hum.de/) *_de*
 - [DHd-Blog - Digital Humanities im deutschsprachigen Raum](https://dhd-blog.org/) *_de*
+- [Center for Digital Humanities Münster](https://www.uni-muenster.de/CDH/) *_de*
 
 **Curated project lists**
 - [Projects presented by the European Association for Digital Humanities](https://eadh.org/projects)
