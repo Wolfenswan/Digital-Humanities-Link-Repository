@@ -43,27 +43,25 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [History Respawned](https://www.historyrespawned.com/)
 - [Play the Past](http://www.playthepast.org/)
 
-
-
 ## Digital Research, Coding and Development
+
+**Research assistants**
+- [Awesome Digital History](https://github.com/maehr/awesome-digital-history) - List of finding aids and research tools for textual and multimedia primary sources.
+- [TextGrid](https://www.textgrid.de/en/web/guest) - digital research environment
+
 **Editors and IDEs**
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Pycharm](https://code.visualstudio.com/)
 
-**Digital Research environments**
-- [TextGrid](https://www.textgrid.de/en/web/guest)
-
+**Tutorials and Courses**
+- [The Programming Historian](https://programminghistorian.org/) - Features a broad spectrum of courses 
+- [freeCodeCamp](https://www.freecodecamp.org/) - Features courses on web development and data analysis with Python
 
 **Python**
 - [Awesome Python](https://github.com/vinta/awesome-python#readme) - curated list of all things Python
 - [Awesome Python Data Sciene](https://github.com/krzjoa/awesome-python-data-science#readme) - curated list for data science in Python
 - [Jupyter Notebooks](https://jupyter.org/)
 - [Pythonanywhere](https://www.pythonanywhere.com/) - cloud-based hosting solution for python-apps
-  
-
-**Tutorials and Courses**
-- [The Programming Historian](https://programminghistorian.org/) - Features a broad spectrum of courses 
-- [freeCodeCamp](https://www.freecodecamp.org/) - Features courses on web development and data analysis with Python
 
 **Hackathons and Dev-Jams**
 - [Coding Da Vince](https://codingdavinci.de/en) - Hackathon for open cultural data
