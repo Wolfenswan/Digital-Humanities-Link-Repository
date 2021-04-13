@@ -25,9 +25,10 @@ This is very much a work in progress and by no means complete. Feel free to rais
 
 ## Education
 
-### Courses and Degree Programs (Collections)
+### Courses and Programs
 
 - [Digital Humanities Course Registry](https://dhcr.clarin-dariah.eu/)
+- [European Summer University in Digital Humanities](https://esu.fdhl.info/)
 
 ### Certificates
 - [IT-Zertifikat der philosophischen Fakultät Köln](https://dh.phil-fak.uni-koeln.de/it-zertifikat-der-philosophischen-fakultaet) *_de*
