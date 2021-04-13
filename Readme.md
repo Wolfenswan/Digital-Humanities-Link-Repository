@@ -23,7 +23,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [GAMS Projects](http://gams.uni-graz.at/context:gams.projekte)
 - [Digital Humanity Projects Austria](https://digital-humanities.at/de/dha/projects) *_de*
 
-## Education and Certifications
+## Education
 
 ### Courses and Degree Programs (Collections)
 
