@@ -29,12 +29,6 @@ This is very much a work in progress and by no means complete. Feel free to rais
 
 - [Digital Humanities Course Registry](https://dhcr.clarin-dariah.eu/)
 
-### Courses and Degree Programs (Individual)
-
-- [European Summer University in Digital Humanities](https://esu.culintec.de/)
-- [Digitale Geistes- und Sozialwissenschaften an der FAU](https://www.izdigital.fau.de/) *_de*
-- [Masterstudiengang Digitales Datenmanagement](https://www.ddm-master.de/) *_de*
-
 ### Certificates
 - [IT-Zertifikat der philosophischen Fakultät Köln](https://dh.phil-fak.uni-koeln.de/it-zertifikat-der-philosophischen-fakultaet) *_de*
 - [Zertifikatskurse der Technischen Hochschule Köln](https://www.th-koeln.de/weiterbildung/zertifikatskurse_5882.php) *_de*
@@ -65,9 +59,6 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [Digital History](https://chnm.gmu.edu/digitalhistory/) - A guide to gathering, preserving and presenting the past on the web.
 - [freeCodeCamp](https://www.freecodecamp.org/) - Features courses on web development and data analysis with Python
 - [The Programming Historian](https://programminghistorian.org/) - Features a broad spectrum of courses 
-
-### Python
-- [Pythonanywhere](https://www.pythonanywhere.com/) - Cloud-based hosting solution for Python-apps.
 
 ### Hackathons and Dev-Jams
 - [Coding Da Vince](https://codingdavinci.de/en) - Hackathon for open cultural data.
