@@ -5,7 +5,7 @@ A collection of webpages and apps useful to students of Digital History and thos
 This is very much a work in progress and by no means complete. Feel free to raise issues or create pull requests to add new content.
 
 ## Associations, Publications and Projects
-### Umbrella associations
+### Umbrella Associations
 - [Center for Digital Research in the Humanities](https://cdrh.unl.edu/)
 - [Verband DHd](https://dig-hum.de/) - Digital Humanities im deutschsprachigen Raum *_de*
 - [Center for Digital Humanities Münster](https://www.uni-muenster.de/CDH/) *_de*
@@ -13,14 +13,14 @@ This is very much a work in progress and by no means complete. Feel free to rais
 ### Journals and Publications
 - [Digital Humanities Now](https://digitalhumanitiesnow.org/) - experimental publication that highlights and distributes informally published digital humanities scholarship
 
-### Supporting associations, infrastructure and projects
+### Supporting Associations, Infrastructure and Projects
 - [Clarin](https://www.clarin.eu/)  - European Research Infrastructure for Language Resources and Technology.
 - [DARIAH-EU](https://dariah.eu/) - Digital Research Infrastructure for the Arts and Humanities.
 - [DHd-Blog](https://dhd-blog.org/) - Blog über die Aktivitäten der deutschsprachigen Digital Humanities *_de*
 - [GAMS](http://gams.uni-graz.at/archive/objects/context:gams/methods/sdef:Context/get?locale=de) - Asset Management System for the Humanities.
 - [Research Guide: Digital Humanities at UCI](https://guides.lib.uci.edu/digital_humanities) - Provides an introduction into DH and features books, tools and software related to the field.
 
-### Curated lists of Digital Humanity projects
+### Curated Lists of Digital Humanity projects
 - [Projects presented by the European Association for Digital Humanities](https://eadh.org/projects)
 - [Projekte der deutschsprachigen Digital Humanities](https://dig-hum.de/forschung/projekte) *_de*
 - [TextGrid projects](https://www.textgrid.de/en/web/guest/kooperationsprojekte)
@@ -52,7 +52,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 
 ## Digital Research and Development
 
-### Research assistants
+### Research Assistants
 - [Jupyter](https://jupyter.org/) - Web-based computational environments to work with Python, R and Julia.
 - [TextGrid](https://www.textgrid.de/en/web/guest) - Digital research environment.
 
