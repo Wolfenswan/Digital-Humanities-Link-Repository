@@ -36,6 +36,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 
 ## Specialized Topics
 #### Digital History
+- [Awesome Digital History](https://github.com/maehr/awesome-digital-history) - The definitive publically curated list for all things Digital History.
 - [Digital History Project](http://digitalhistory.unl.edu/) - overview of scholars, projects and courses in the field of Digital History
 - [Tempopedia](https://tempopedia.org/) - Directory of Digital History Projects
 
@@ -66,6 +67,5 @@ This is very much a work in progress and by no means complete. Feel free to rais
 
 ## Awesome Lists
 - [Awesome](https://github.com/sindresorhus/awesome) - Meta-List of "awesome lists" related to development and software in general.
-- [Awesome Digital History](https://github.com/maehr/awesome-digital-history) - Computer-aided scientific investigation of history.
 - [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - Curated list for data science in Python.
 - [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
