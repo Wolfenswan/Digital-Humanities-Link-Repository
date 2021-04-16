@@ -61,7 +61,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [Pycharm](https://code.visualstudio.com/) - IDE for Python. Community edition is free.
 
 ### Tutorials, Courses and Workshops
-- [Data Carpentry](https://datacarpentry.org/) - Workshops teaching data skills required for research
+- [Data Carpentry](https://datacarpentry.org/) - Workshops teaching data skills for research.
 - [Digital History](https://chnm.gmu.edu/digitalhistory/) - A guide to gathering, preserving and presenting the past on the web.
 - [freeCodeCamp](https://www.freecodecamp.org/) - Features courses on web development and data analysis with Python.
 - [The Programming Historian](https://programminghistorian.org/) - Features a broad spectrum of peer-reviewed courses for digital historians.
