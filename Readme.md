@@ -4,7 +4,7 @@ A collection of webpages and apps useful to students of Digital History and thos
 
 This is very much a work in progress and by no means complete. Feel free to raise issues or create pull requests to add new content.
 
-## Associations and General Projects
+## Associations and Collections of Projects
 ### Umbrella associations
 - [Center for Digital Research in the Humanities](https://cdrh.unl.edu/)
 - [Verband DHd](https://dig-hum.de/) - Digital Humanities im deutschsprachigen Raum *_de*
