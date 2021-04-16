@@ -4,11 +4,14 @@ A collection of webpages and apps useful to students of Digital History and thos
 
 This is very much a work in progress and by no means complete. Feel free to raise issues or create pull requests to add new content.
 
-## Associations and Collections of Projects
+## Associations, Publications and Projects
 ### Umbrella associations
 - [Center for Digital Research in the Humanities](https://cdrh.unl.edu/)
 - [Verband DHd](https://dig-hum.de/) - Digital Humanities im deutschsprachigen Raum *_de*
 - [Center for Digital Humanities Münster](https://www.uni-muenster.de/CDH/) *_de*
+
+### Journals and Publications
+- [Digital Humanities Now](https://digitalhumanitiesnow.org/) - experimental publication that highlights and distributes informally published digital humanities scholarship
 
 ### Supporting associations, infrastructure and projects
 - [Clarin](https://www.clarin.eu/)  - European Research Infrastructure for Language Resources and Technology.
