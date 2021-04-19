@@ -13,7 +13,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 ### Supporting associations, infrastructure and projects
 - [Clarin](https://www.clarin.eu/) - European Research Infrastructure for Language Resources and Technology.
 - [DARIAH-EU](https://dariah.eu/) - Digital Research Infrastructure for the Arts and Humanities.
-- [DHd-Blog](https://dhd-blog.org/) - Blog über die Aktivitäten der deutschsprachigen Digital Humanities *_de*
+- [DHd-Blog](https://dhd-blog.org/) - Blog über die Aktivitäten der deutschsprachigen Digital Humanities. *_de*
 - [GAMS](http://gams.uni-graz.at/archive/objects/context:gams/methods/sdef:Context/get?locale=de) - Asset Management System for the Humanities
 
 ### Curated lists of Digital Humanity projects
