@@ -7,7 +7,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 ## Associations and Collections of Projects
 ### Umbrella associations
 - [Center for Digital Research in the Humanities](https://cdrh.unl.edu/)
-- [Verband DHd](https://dig-hum.de/) - Digital Humanities im deutschsprachigen Raum *_de*
+- [Verband DHd](https://dig-hum.de/) - Digital Humanities im deutschsprachigen Raum. *_de*
 - [Center for Digital Humanities Münster](https://www.uni-muenster.de/CDH/) *_de*
 
 ### Supporting associations, infrastructure and projects
