@@ -51,6 +51,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 ### Research assistants
 - [Jupyter](https://jupyter.org/) - Web-based computational environments to work with Python, R and Julia.
 - [TextGrid](https://www.textgrid.de/en/web/guest) - Digital research environment.
+- [Tools for Academic Research](http://tools.kausalflow.com) - Curated list of research tools for all academic branches.
 
 ### Editors and IDEs
 - [Visual Studio Code](https://code.visualstudio.com/) - Free source-code editor.
