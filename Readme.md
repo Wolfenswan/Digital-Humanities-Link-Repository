@@ -40,6 +40,11 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [Digital History Project](http://digitalhistory.unl.edu/) - overview of scholars, projects and courses in the field of Digital History
 - [Tempopedia](https://tempopedia.org/) - Directory of Digital History Projects
 
+### Culture of Remembrance
+- [The Liberation](https://diebefreiung.br.de/) - Virtual tour of the Liberation of Dachau Concentration, April 29th 1945.
+- [RomArchive: Voices of the Victims](https://www.romarchive.eu/en/voices-of-the-victims/) - Voices and documents of those persecuted as members Romani-speaking groups between 1933 and 1945.
+- [Werkstatt BPB: Vernetztes Erinnern](https://www.bpb.de/lernen/digitale-bildung/werkstatt/205403/vernetztes-erinnern) - Portal of the Federal Agency for Civic Education for digital culture of remembrance. *_de*
+
 #### Digital Games and Humanities
 - [Arbeitskreis Geschichtswissenschaft und Digitale Spiele](https://gespielt.hypotheses.org/) *_de*
 - [Gaming the Past](https://gamingthepast.net/)
