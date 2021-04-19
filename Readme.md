@@ -41,8 +41,10 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [Tempopedia](https://tempopedia.org/) - Directory of Digital History Projects
 
 ### Culture of Remembrance
-- [The Liberation](https://diebefreiung.br.de/) - Virtual tour of the Liberation of Dachau Concentration, April 29th 1945.
+- [Die Quellen sprechen](https://die-quellen-sprechen.de/) - Recorded 
 - [RomArchive: Voices of the Victims](https://www.romarchive.eu/en/voices-of-the-victims/) - Voices and documents of those persecuted as members Romani-speaking groups between 1933 and 1945.
+- [The Persecution of the Jews in the Netherlands](https://jodenvervolginginfotos.nl/english) - Online exhibition and podcast on the persecution of jewish people 1940 to 1945.
+- [The Liberation](https://diebefreiung.br.de/) - Virtual tour of the Liberation of Dachau Concentration, April 29th 1945.
 - [Werkstatt BPB: Vernetztes Erinnern](https://www.bpb.de/lernen/digitale-bildung/werkstatt/205403/vernetztes-erinnern) - Portal of the Federal Agency for Civic Education for digital culture of remembrance. *_de*
 
 #### Digital Games and Humanities
