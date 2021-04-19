@@ -68,5 +68,6 @@ This is very much a work in progress and by no means complete. Feel free to rais
 
 ## Awesome Lists
 - [Awesome](https://github.com/sindresorhus/awesome) - Meta-List of "awesome lists" related to development and software in general.
+- [Awesome Research](https://github.com/emptymalei/awesome-research) - Curated list of research tools.
 - [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - Curated list for data science in Python.
 - [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
