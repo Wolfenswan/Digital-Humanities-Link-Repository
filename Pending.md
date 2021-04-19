@@ -1,5 +1,7 @@
 # Pending Entries
 
+Entries that are DH-related but, for one reason or the other, I'm not quite sure if they should make the cut.
+
 ## Addition
 
 /
@@ -8,7 +10,6 @@
 
 ### Courses and Degree Programs (Individual)
 
-- [European Summer University in Digital Humanities](https://esu.culintec.de/)
 - [Digitale Geistes- und Sozialwissenschaften an der FAU](https://www.izdigital.fau.de/) *_de*
 - [Masterstudiengang Digitales Datenmanagement](https://www.ddm-master.de/) *_de*
 
