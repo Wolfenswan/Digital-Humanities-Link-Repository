@@ -7,7 +7,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 ## Associations, Publications and Projects
 ### Umbrella Associations
 - [Center for Digital Research in the Humanities](https://cdrh.unl.edu/)
-- [Verband DHd](https://dig-hum.de/) - Digital Humanities im deutschsprachigen Raum *_de*
+- [Verband DHd](https://dig-hum.de/) - Digital Humanities im deutschsprachigen Raum. *_de*
 - [Center for Digital Humanities Münster](https://www.uni-muenster.de/CDH/) *_de*
 
 ### Journals and Publications
@@ -40,7 +40,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 
 ## Specialized Topics
 #### Digital History
-- [Awesome Digital History](https://github.com/maehr/awesome-digital-history) - The definitive publically curated list for all things Digital History.
+- [Awesome Digital History](https://github.com/maehr/awesome-digital-history) - Curated lists of finding aids for primary sources as well as courses and learning tools to explore history digitally.
 - [Digital History Project](http://digitalhistory.unl.edu/) - overview of scholars, projects and courses in the field of Digital History
 - [Tempopedia](https://tempopedia.org/) - Directory of Digital History Projects
 
@@ -55,6 +55,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 ### Research Assistants
 - [Jupyter](https://jupyter.org/) - Web-based computational environments to work with Python, R and Julia.
 - [TextGrid](https://www.textgrid.de/en/web/guest) - Digital research environment.
+- [Tools for Academic Research](http://tools.kausalflow.com) - Curated list of research tools for all academic branches.
 
 ### Editors and IDEs
 - [Visual Studio Code](https://code.visualstudio.com/) - Free source-code editor.
@@ -71,5 +72,6 @@ This is very much a work in progress and by no means complete. Feel free to rais
 
 ## Awesome Lists
 - [Awesome](https://github.com/sindresorhus/awesome) - Meta-List of "awesome lists" related to development and software in general.
+- [Awesome Research](https://github.com/emptymalei/awesome-research) - Curated list of research tools.
 - [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - Curated list for data science in Python.
 - [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
