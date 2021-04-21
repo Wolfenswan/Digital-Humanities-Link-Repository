@@ -11,7 +11,9 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [Center for Digital Humanities Münster](https://www.uni-muenster.de/CDH/) *_de*
 
 ### Journals and Publications
-- [Digital Humanities Now](https://digitalhumanitiesnow.org/) - experimental publication that highlights and distributes informally published digital humanities scholarship
+- [Digital Humanities Now](https://digitalhumanitiesnow.org/) - Experimental publication that highlights and distributes informally published digital humanities scholarship.
+- [Digital Scholarship in the Humanities](https://academic.oup.com/dsh) - International, peer reviewed journal on all aspects of digital scholarship in the Humanities.
+- [[ZfdG]](https://zfdg.de/) - Journal for Digital Humanities. *_de*
 
 ### Supporting Associations, Infrastructure and Projects
 - [Clarin](https://www.clarin.eu/)  - European Research Infrastructure for Language Resources and Technology.
