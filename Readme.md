@@ -10,15 +10,15 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [Verband DHd](https://dig-hum.de/) - Digital Humanities im deutschsprachigen Raum. *_de*
 - [Center for Digital Humanities Münster](https://www.uni-muenster.de/CDH/) *_de*
 
-### Journals and Publications
+### Blogs, Journals and Publications
+- [DHd-Blog](https://dhd-blog.org/) - Blog on DH activities, focused on the broader German-speaking area *_de*
 - [Digital Humanities Now](https://digitalhumanitiesnow.org/) - Experimental publication that highlights and distributes informally published digital humanities scholarship.
 - [Digital Scholarship in the Humanities](https://academic.oup.com/dsh) - International, peer reviewed journal on all aspects of digital scholarship in the Humanities.
-- [[ZfdG]](https://zfdg.de/) - Journal for Digital Humanities. *_de*
+- [ZfdG](https://zfdg.de/) - Journal for Digital Humanities. *_de*
 
 ### Supporting Associations, Infrastructure and Projects
 - [Clarin](https://www.clarin.eu/)  - European Research Infrastructure for Language Resources and Technology.
 - [DARIAH-EU](https://dariah.eu/) - Digital Research Infrastructure for the Arts and Humanities.
-- [DHd-Blog](https://dhd-blog.org/) - Blog über die Aktivitäten der deutschsprachigen Digital Humanities *_de*
 - [GAMS](http://gams.uni-graz.at/archive/objects/context:gams/methods/sdef:Context/get?locale=de) - Asset Management System for the Humanities.
 - [Research Guide: Digital Humanities at UCI](https://guides.lib.uci.edu/digital_humanities) - Provides an introduction into DH and features books, tools and software related to the field.
 
