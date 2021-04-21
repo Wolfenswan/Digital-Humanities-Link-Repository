@@ -17,7 +17,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [ZfdG](https://zfdg.de/) - Journal for Digital Humanities. *_de*
 
 ### Supporting Associations, Infrastructure and Projects
-- [Clarin](https://www.clarin.eu/)  - European Research Infrastructure for Language Resources and Technology.
+- [Clarin](https://www.clarin.eu/) - European Research Infrastructure for Language Resources and Technology.
 - [DARIAH-EU](https://dariah.eu/) - Digital Research Infrastructure for the Arts and Humanities.
 - [GAMS](http://gams.uni-graz.at/archive/objects/context:gams/methods/sdef:Context/get?locale=de) - Asset Management System for the Humanities.
 - [Research Guide: Digital Humanities at UCI](https://guides.lib.uci.edu/digital_humanities) - Provides an introduction into DH and features books, tools and software related to the field.
