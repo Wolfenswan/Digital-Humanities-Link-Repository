@@ -4,19 +4,25 @@ A collection of webpages and apps useful to students of Digital History and thos
 
 This is very much a work in progress and by no means complete. Feel free to raise issues or create pull requests to add new content.
 
-## Associations and Collections of Projects
-### Umbrella associations
+## Associations, Publications and Projects
+### Umbrella Associations
 - [Center for Digital Research in the Humanities](https://cdrh.unl.edu/)
-- [Verband DHd](https://dig-hum.de/) - Digital Humanities im deutschsprachigen Raum *_de*
+- [Verband DHd](https://dig-hum.de/) - Digital Humanities im deutschsprachigen Raum. *_de*
 - [Center for Digital Humanities Münster](https://www.uni-muenster.de/CDH/) *_de*
 
-### Supporting associations, infrastructure and projects
-- [Clarin](https://www.clarin.eu/)  - European Research Infrastructure for Language Resources and Technology.
-- [DARIAH-EU](https://dariah.eu/) - Digital Research Infrastructure for the Arts and Humanities.
-- [DHd-Blog](https://dhd-blog.org/) - Blog über die Aktivitäten der deutschsprachigen Digital Humanities *_de*
-- [GAMS](http://gams.uni-graz.at/archive/objects/context:gams/methods/sdef:Context/get?locale=de) - Asset Management System for the Humanities
+### Blogs, Journals and Publications
+- [DHd-Blog](https://dhd-blog.org/) - Blog on DH activities, focused on the broader German-speaking area *_de*
+- [Digital Humanities Now](https://digitalhumanitiesnow.org/) - Experimental publication that highlights and distributes informally published digital humanities scholarship.
+- [Digital Scholarship in the Humanities](https://academic.oup.com/dsh) - International, peer reviewed journal on all aspects of digital scholarship in the Humanities.
+- [ZfdG](https://zfdg.de/) - Journal for Digital Humanities. *_de*
 
-### Curated lists of Digital Humanity projects
+### Supporting Associations, Infrastructure and Projects
+- [Clarin](https://www.clarin.eu/) - European Research Infrastructure for Language Resources and Technology.
+- [DARIAH-EU](https://dariah.eu/) - Digital Research Infrastructure for the Arts and Humanities.
+- [GAMS](http://gams.uni-graz.at/archive/objects/context:gams/methods/sdef:Context/get?locale=de) - Asset Management System for the Humanities.
+- [Research Guide: Digital Humanities at UCI](https://guides.lib.uci.edu/digital_humanities) - Provides an introduction into DH and features books, tools and software related to the field.
+
+### Curated Lists of Digital Humanity projects
 - [Projects presented by the European Association for Digital Humanities](https://eadh.org/projects)
 - [Projekte der deutschsprachigen Digital Humanities](https://dig-hum.de/forschung/projekte) *_de*
 - [TextGrid projects](https://www.textgrid.de/en/web/guest/kooperationsprojekte)
@@ -36,7 +42,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 
 ## Specialized Topics
 #### Digital History
-- [Awesome Digital History](https://github.com/maehr/awesome-digital-history) - The definitive publicly curated list for all things Digital History.
+- [Awesome Digital History](https://github.com/maehr/awesome-digital-history) - Curated lists of finding aids for primary sources as well as courses and learning tools to explore history digitally.
 - [Digital History Project](http://digitalhistory.unl.edu/) - overview of scholars, projects and courses in the field of Digital History
 - [Tempopedia](https://tempopedia.org/) - Directory of Digital History Projects
 
@@ -54,16 +60,17 @@ This is very much a work in progress and by no means complete. Feel free to rais
 
 ## Digital Research and Development
 
-### Research assistants
+### Research Assistants
 - [Jupyter](https://jupyter.org/) - Web-based computational environments to work with Python, R and Julia.
 - [TextGrid](https://www.textgrid.de/en/web/guest) - Digital research environment.
+- [Tools for Academic Research](http://tools.kausalflow.com) - Curated list of research tools for all academic branches.
 
 ### Editors and IDEs
 - [Visual Studio Code](https://code.visualstudio.com/) - Free source-code editor.
 - [Pycharm](https://code.visualstudio.com/) - IDE for Python. Community edition is free.
 
 ### Tutorials, Courses and Workshops
-- [Data Carpentry](https://datacarpentry.org/) - Workshops teaching data skills required for research
+- [Data Carpentry](https://datacarpentry.org/) - Workshops teaching data skills for research.
 - [Digital History](https://chnm.gmu.edu/digitalhistory/) - A guide to gathering, preserving and presenting the past on the web.
 - [freeCodeCamp](https://www.freecodecamp.org/) - Features courses on web development and data analysis with Python.
 - [The Programming Historian](https://programminghistorian.org/) - Features a broad spectrum of peer-reviewed courses for digital historians.
@@ -73,5 +80,6 @@ This is very much a work in progress and by no means complete. Feel free to rais
 
 ## Awesome Lists
 - [Awesome](https://github.com/sindresorhus/awesome) - Meta-List of "awesome lists" related to development and software in general.
+- [Awesome Research](https://github.com/emptymalei/awesome-research) - Curated list of research tools.
 - [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - Curated list for data science in Python.
 - [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
