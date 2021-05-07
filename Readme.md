@@ -1,4 +1,4 @@
-# Digital Humanities Link Repository (DRAFT)
+# Digital Humanities Link Repository
 
 A collection of webpages and apps useful to students of Digital History and those active or interested in the field. *_de* indicates content primarily in German.
 
