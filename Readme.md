@@ -38,6 +38,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 
 ### Certificates
 - [IT-Zertifikat der philosophischen Fakultät Köln](https://dh.phil-fak.uni-koeln.de/it-zertifikat-der-philosophischen-fakultaet) *_de*
+- [Modulstudien Digital Humanities](https://www.izdigital.fau.de/studium/modulstudien-und-nebenfach/modulstudien-digital-humanities/) at FAU Erlangen - open to both FAU students and external students *_de*
 - [Zertifikatskurse der Technischen Hochschule Köln](https://www.th-koeln.de/weiterbildung/zertifikatskurse_5882.php) *_de*
 
 ## Specialized Topics
