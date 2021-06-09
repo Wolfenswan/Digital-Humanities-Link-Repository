@@ -59,6 +59,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [Gaming the Past](https://gamingthepast.net/)
 - [History Respawned](https://www.historyrespawned.com/)
 - [Play the Past](http://www.playthepast.org/)
+- [Video Game History Foundation](https://gamehistory.org/)
 
 ## Digital Research and Development
 
