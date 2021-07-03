@@ -44,6 +44,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 ## Specialized Topics
 #### Digital History
 - [Awesome Digital History](https://github.com/maehr/awesome-digital-history) - Curated lists of finding aids for primary sources as well as courses and learning tools to explore history digitally.
+- [Digital Benin](https://digital-benin.org) - Documentation of royal artworks looted in the 19th century. Release planned for 2022.
 - [Digital History Project](http://digitalhistory.unl.edu/) - overview of scholars, projects and courses in the field of Digital History
 - [Tempopedia](https://tempopedia.org/) - Directory of Digital History Projects
 
