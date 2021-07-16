@@ -48,7 +48,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [Digital History Project](http://digitalhistory.unl.edu/) - overview of scholars, projects and courses in the field of Digital History
 - [Tempopedia](https://tempopedia.org/) - Directory of Digital History Projects
 
-### Culture of Remembrance
+#### Culture of Remembrance
 - [Datenbank: Games und Erinnerungskultur](https://www.stiftung-digitale-spielekultur.de/games-erinnerungskultur/) - growing database containing reviews and videos about games related to remembrance culture *_de*
 - [Die Quellen sprechen](https://die-quellen-sprechen.de/) - Audio-documents of primary sources, eye witness accounts and relevant historiographical discussions. *_de*
 - [Digital Holocaust Memory Project](https://reframe.sussex.ac.uk/digitalholocaustmemory/) - Digital memoryscape and network for holocaust remembrance.
