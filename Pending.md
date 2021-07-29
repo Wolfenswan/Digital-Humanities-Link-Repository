@@ -7,6 +7,9 @@ Entries that are DH-related but, for one reason or the other, I'm not quite sure
 ### Individual Projects
 [Viabundus](https://www.landesgeschichte.uni-goettingen.de/handelsstrassen/index.php) - Online pre-modern street map of Europe.
 
+### Other
+- https://www.sssmg.org/wp/bibliography/
+
 ## Removal
 
 ### Culture of Remembrance
