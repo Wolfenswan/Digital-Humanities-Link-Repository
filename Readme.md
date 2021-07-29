@@ -45,10 +45,12 @@ This is very much a work in progress and by no means complete. Feel free to rais
 ## Specialized Topics
 #### Digital History
 - [Awesome Digital History](https://github.com/maehr/awesome-digital-history) - Curated lists of finding aids for primary sources as well as courses and learning tools to explore history digitally.
+- [Digital Benin](https://digital-benin.org) - Documentation of royal artworks looted in the 19th century. Release planned for 2022.
 - [Digital History Project](http://digitalhistory.unl.edu/) - overview of scholars, projects and courses in the field of Digital History
 - [Tempopedia](https://tempopedia.org/) - Directory of Digital History Projects
 
-### Culture of Remembrance
+#### Culture of Remembrance
+- [Datenbank: Games und Erinnerungskultur](https://www.stiftung-digitale-spielekultur.de/games-erinnerungskultur/) - growing database containing reviews and videos about games related to remembrance culture *_de*
 - [Die Quellen sprechen](https://die-quellen-sprechen.de/) - Audio-documents of primary sources, eye witness accounts and relevant historiographical discussions. *_de*
 - [Digital Holocaust Memory Project](https://reframe.sussex.ac.uk/digitalholocaustmemory/) - Digital memoryscape and network for holocaust remembrance.
 - [Digitale Erinnerung an NS-Zwangsarbeit](https://www.ns-zwangsarbeit.de/recherche/digitale-erinnerung/) - List of digital media on forced labor from 1933 to 1945.
@@ -60,6 +62,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [Gaming the Past](https://gamingthepast.net/)
 - [History Respawned](https://www.historyrespawned.com/)
 - [Play the Past](http://www.playthepast.org/)
+- [Video Game History Foundation](https://gamehistory.org/)
 
 ## Digital Research and Development
 
