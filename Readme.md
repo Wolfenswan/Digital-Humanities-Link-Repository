@@ -67,7 +67,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [The Persecution of the Jews in the Netherlands](https://jodenvervolginginfotos.nl/english) - Online exhibition and podcast on the persecution of jewish people 1940 to 1945.
 - [The Liberation](https://diebefreiung.br.de/) - Virtual tour of the Liberation of Dachau Concentration, April 29th 1945.
 - [Viabundus](https://www.landesgeschichte.uni-goettingen.de/handelsstrassen/index.php) - Digital pre-modern street map of Europe.
-- [Welten auf Papier](https://weltenaufpapier.de/) - Online exhibition of digitalized and animated maps from the Hanseatic Business Archives Foundation *_de*
+- [Welten auf Papier](https://weltenaufpapier.de/) - Online exhibition of digitalized, animated and narrated maps from the Hanseatic Business Archives Foundation *_de*
 
 ## Digital Research and Development
 
