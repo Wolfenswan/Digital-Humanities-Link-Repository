@@ -48,6 +48,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [Digital Benin](https://digital-benin.org) - Documentation of royal artworks looted in the 19th century. Release planned for 2022.
 - [Digital History Project](http://digitalhistory.unl.edu/) - overview of scholars, projects and courses in the field of Digital History
 - [Tempopedia](https://tempopedia.org/) - Directory of Digital History Projects
+- [Welten auf Papier](https://weltenaufpapier.de/) - Online exhibition of digitalized and animated maps from the Hanseatic Business Archives Foundation *_de*
 
 #### Culture of Remembrance
 - [Datenbank: Games und Erinnerungskultur](https://www.stiftung-digitale-spielekultur.de/games-erinnerungskultur/) - growing database containing reviews and videos about games related to remembrance culture *_de*
