@@ -32,7 +32,6 @@ This is very much a work in progress and by no means complete. Feel free to rais
 ## Education
 
 ### Courses and Programs
-
 - [Digital Humanities Course Registry](https://dhcr.clarin-dariah.eu/)
 - [European Summer University in Digital Humanities](https://esu.fdhl.info/)
 
@@ -63,6 +62,12 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [History Respawned](https://www.historyrespawned.com/)
 - [Play the Past](http://www.playthepast.org/)
 - [Video Game History Foundation](https://gamehistory.org/)
+
+### Individual projects and digital exhibitions
+[The Persecution of the Jews in the Netherlands](https://jodenvervolginginfotos.nl/english) - Online exhibition and podcast on the persecution of jewish people 1940 to 1945.
+[The Liberation](https://diebefreiung.br.de/) - Virtual tour of the Liberation of Dachau Concentration, April 29th 1945.
+[Viabundus](https://www.landesgeschichte.uni-goettingen.de/handelsstrassen/index.php) - Digital pre-modern street map of Europe.
+[Welten auf Papier](https://weltenaufpapier.de/) - Online exhibition of digitalized and animated maps from the Hanseatic Business Archives Foundation *_de*
 
 ## Digital Research and Development
 
