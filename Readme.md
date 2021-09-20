@@ -90,6 +90,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 ### Hackathons and Dev-Jams
 - [Coding Da Vince](https://codingdavinci.de/en) - Hackathon for open cultural data.
 - [DTS Hackathon](https://distributed-text-services.github.io/workshops/events/2021-hackathon/) - Annual hackathon revolving around Distributed Text Services
+
 ## Awesome Lists
 - [Awesome](https://github.com/sindresorhus/awesome) - Meta-List of "awesome lists" related to development and software in general.
 - [Awesome Research](https://github.com/emptymalei/awesome-research) - Curated list of research tools.
