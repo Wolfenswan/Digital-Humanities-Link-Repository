@@ -54,6 +54,7 @@ This is very much a work in progress and by no means complete. Feel free to rais
 - [Digital Holocaust Memory Project](https://reframe.sussex.ac.uk/digitalholocaustmemory/) - Digital memoryscape and network for holocaust remembrance.
 - [Digitale Erinnerung an NS-Zwangsarbeit](https://www.ns-zwangsarbeit.de/recherche/digitale-erinnerung/) - List of digital media on forced labor from 1933 to 1945.
 - [RomArchive: Voices of the Victims](https://www.romarchive.eu/en/voices-of-the-victims/) - Voices and documents of those persecuted as members of Romani-speaking groups between 1933 and 1945.
+- [Scorched Places](https://verbrannte-orte.de/) - Interactive map of the national-socialist book burnings in 1933.
 - [Werkstatt BPB: Vernetztes Erinnern](https://www.bpb.de/lernen/digitale-bildung/werkstatt/205403/vernetztes-erinnern) - Portal of the Federal Agency for Civic Education for digital culture of remembrance. *_de*
 
 #### Digital Games and Humanities
